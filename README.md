@@ -13,6 +13,6 @@ Methodology: The strategy is to match the required skills and candidate skills a
 Conclusion: In this study a database is created for candidate and employer information. Candidate skills and the required skills served as a basis to recommendation system. The results are based on the skills only. 
 
                                                                 
-Future Work: Farther research will implement a complex recommender approach which factors Candidate requirements, qualification, experience and employer’s requirements can improve the matching quality.
+Future Work: Furture research will implement a complex recommender approach which factors Candidate requirements, qualification, experience and employer’s requirements can improve the matching quality.
 
   
